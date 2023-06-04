@@ -158,6 +158,84 @@ However, every single time Madzadev asks if any of his followers have a LinkedIn
 
 images:01-nikki-madzadev-linkedin.jpg
 
+== Swipe Files
+
+So I think we've established two things here:
+
+1. The big accounts don't actually log in and tweet every day. They just schedule tweets months in advance.
+2. The big accounts only have about 60 days of original content. They just post the same stuff month after month.
+
+Signing up for a scheduling tool isn't a big deal, so that's not a big ask if someone is serious about becoming a Twitter star.
+
+But what about that second point? You've still got to come up with 60 days worth of awesome tweets, right? 
+
+Actually, no. No you don't. 
+
+At least _they_ don't.
+
+Let me introduce you to the concept of a Twitter swipe file. If you've never heard of one before, this is going to blow your mind. I know that when I found out about it a lot of the nonsense I saw go on in the TechTwitter space made a lot more sense to me.
+
+A swipe file is a collection of the top, most effective tweets in a given Twitter genre.
+
+People will keep an eye on the tweets that tend to get the most likes, retweets and engagement and copy them into a file. Eventually they get a collection of 50 to 100 tweets that seem to really resonate with people in their community.
+
+Then, all they do is steal these tweets and post them as their own. A swipe file is a collection of tweets that you've stolen from other people that have been proven to get massive engagement.
+
+In the TechTwitter community, the swipe file is well known and shared extensively amongst the top accounts and includes such classics as:
+
+- Top Remote Jobs that Pay in USD!
+- Learn for Free in 2023!
+- Chrome extensions to 10x your productivity!
+- XYZ Developer Roadmap!
+- Certifications you can get for Free!
+- GitHub Repositories to learn XYZ
+- AI Tools to Save you Time
+- XYZ is a free university
+- Top 10 Git Commands!
+
+All of the fastest growing accounts on TechTwitter just copy off this common swipe file, create 60 days worth of tweets, and then just schedule them. Well, maybe I should say 'their ghostwriter copies them', but that's a whole other issue.
+
+The point is, the top names in TechTwitter are not out there creating new content. They're simply stealing other people's content and posting it as their own.
+
+Now, I should make one thing clear - it's not always a word for word swipe.
+
+JK Moligna, who built Tweet Hunter and earned hundreds of thousands of dollars ghost writing for Tweet Hunter clients, calls it _filtering_, not stealing.
+
+What he does is take a tweet that has been super successful and change a thing or two. For example, on a tweet that says 'Learn for Free' he might change it to 'Learn for Free in 2023!' and perhaps change one of the links referenced in the tweet. The tweet is no longer _stolen._ It is now _filtered._
+
+If you look at TechTwitter, you'll see that's what all of the big accounts do.
+
+For example, Prathkum has been filtering the stolen 'remote jobs' tweet since 2020, but sometimes he will add wink emoji. It's not longer a copied tweet, but is instead contains customized original content!
+
+images:02-prathkum-remote-emoji.jpg
+
+As you can see, Marko Denic's creative contribution is adding different icons to the tweet and switching out a link or two to remove any evidence that he was copying from a swipe file.
+
+02-marko-remote-emoji.jpg
+
+02-madzadev-remote-emoji.jpg
+
+Madzadev also has a real knack for adding emojis to the tweets he pulls off the swipe file. With a few new links and different icons, you can hardly see any similarities between this tweet and the ones by Marko, Prathkum and others.
+
+With ChatGPT being able to create Twitter threads, ghostwriters who pull from the Twitter Swipe file, along with hard working TechTwitter influencers can easily turn swipe file tweets into threads.
+
+Two of the best people at doing this are @ChrisStaud and @NikkiSiapno. 
+
+You'll notice that they both posted the exact same tweet, although they sneakily _filtered_ the title so nobody knew they were using the same content:
+
+- Nikki used _7 of the best sites to land a remote job in 2023_
+- Chris used _7 sites to get a remote job that pays in USD:_
+
+You will notice that while they changed the title, Nikki and Chris both posted the exact same content.
+
+You will see this quite often with the big techtwitter account just repost each other's stuff word for word. It makes it easy to see which accounts are working together to create the illusion that they are prolific content creators.
+
+
+image:02-nikki-remote-same.jpg
+image:02-chris-remote-same.jpg
+
+
+
 
 
 

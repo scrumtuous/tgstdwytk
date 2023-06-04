@@ -101,19 +101,57 @@ Twitter users have a short memory, so there's no need to post original content. 
 
 Just go to any of the fastest growing accounts in your favorite genre, look at some of their most popular tweets and do a search for that tweet under that account. 
 
-This search on MadzaDev for his '8 Free online courses' tweet shows the exact same thing was tweeted out on:
+This search on MadzaDev for his '7 no-code tools' tweet and you'll see tweeted "7 No-code tools to boost your workflow (10X productivity)" on:
 
-- March 5th
-- January 6th
-- December 3rd
-- November 1st
+- March 31th
+- January 29th
+- Dec 28th
+- November 29th
 
-As you can see, the same tweet went out at pretty much the same time every month.
+A quick search also showed he tweeted his '7 FREE No-code tools to create websites in minutes (try them)' tweet on:
+
+- March 1st
+- January 1st
+- December 9th
+
+As you can see, the same tweet is being recycled every 30 to 60 days. And this is not a retweet. This is an attempt to make it seem like the account is posting brand new, original content.
+
+image:01-madzadev-7-no-code.jpg
+
+Here's @Chrisstaud tweeting out the same "Learn Python and SQL" tweet every 30 or 60 days.
 
 
+image:01-chris-learn-python
 
+As you can see, Nikki can get over half a million impressions when she posts here '7 Programming Tools' tweet, which is why she has that scheduled on repeat.
+
+image:01-nikki-7-programming.jpg
+
+
+What's amazing is that this type of grift goes back years and years with some accounts.
+
+For example, Marko Denic has been tweeting out the same 'remote jobs' tweet pretty much every month for almost 3 years. Note that Marko updates the tweet with new icons and adds a new link every couple of years, but for all intents and purposes, it's the same tweet being sent out every month as though it was new and original content.
+
+
+image:01-marko-old-remote-jobs
+image:01-marko-new-remote-jobs
 
  
+For some tweets that work really well, some accounts will just tweet it out every week, rather than waiting 30 or 60 days.
+
+For example, every week Madzadev tweets out asking if anyone has a LinkedIn account. Those post generate a massive amount of engagement.
+
+However, I did notice that Madzadev deletes that tweet after it's been floated for a few days, so I can't show you the actual tweet history.
+
+However, every single time Madzadev asks if any of his followers have a LinkedIn account, Nikkisiapno throws her profile at him. So you can look at Nikki's responses and see that Madzadev threw out the same 'do you have a LinkedIn' tweet on:
+
+- January 26th
+- January 31st
+- February 7th
+- February 21st
+- March 15th
+
+images:01-nikki-madzadev-linkedin.jpg
 
 
 
